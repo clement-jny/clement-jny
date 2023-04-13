@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-[Frontend Mentor](https://www.frontendmentor.io/profile/clement-jny)
+[Frontend Mentor profile](https://www.frontendmentor.io/profile/clement-jny)
 [Github.io](https://clement-jny.github.io)
 
 <!--
