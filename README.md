@@ -1,6 +1,6 @@
-<h1>Hey everyone 👋, I'm Clément</h1>
+Hey everyone 👋, I'm Clément
 
-<h2>A passionate frontend developer from India :)</h2>
+A passionate frontend developer from India :)
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Lille
