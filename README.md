@@ -1,7 +1,8 @@
-Hey everyone 👋, I'm Clément
+# Hey everyone 👋, I'm Clément
 
-A passionate frontend developer from India :)
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
+## A passionate frontend developer from India :)
+
+### I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Lille
 * 🖥️  See my portfolio at [here](http://clement-jny.github.io/)
