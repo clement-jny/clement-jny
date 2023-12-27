@@ -1,6 +1,15 @@
 <h1 align="center">Hey everyone 👋, I'm Clément</h1>
-Hey everyone 👋, I'm Clément
-============================
+
+hey
+=
+-
+
+Hi 👋 My name is Clément
+=
+
+
+Student
+-------
 
 <h3 align="center">A passionate frontend developer from India :)</h3>
 
@@ -126,11 +135,7 @@ Here are some ideas to get you started:
 ###
 
 
-Hi 👋 My name is Clément
 
-
-Student
--------
 
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
 
