@@ -127,7 +127,7 @@ Here are some ideas to get you started:
 
 
 Hi 👋 My name is Clément
-=
+
 
 Student
 -------
