@@ -6,10 +6,10 @@
 
 * 🌍  I'm based in Lille
 * 🖥️  See my portfolio [here](http://clement-jny.github.io/)
-<!-- * 📫  You can contact me at [](mailto:) -->
+* 📫  You can contact me at [](mailto:)
 * 🚀  I'm currently working on [emiliemphotographie](https://github.com/clement-jny/emiliemphotographie)
 * 🧠  I'm currently learning NextJs, TypeScript
-<!-- * 🤝  I'm open to collaborating on ... -->
+* 🤝  I'm open to collaborating on web projets, ...
 * ⚡   I'd be delighted to talk to you
 
 
