@@ -1,44 +1,11 @@
 <h1>Hey everyone 👋, I'm Clément</h1>
 
-<h3>A passionate frontend developer from India :)</h3>
+<h2>A passionate frontend developer from India :)</h2>
 I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clement-jny" alt="clement-jny" /></a> </p>
-
-- 🔭 I’m currently working on **aa**
-
-- 🌱 I’m currently learning **dd**
-
-- 👯 I’m looking to collaborate on **bb**
-
-- 🤝 I’m looking for help with **cc**
-
-- 👨‍💻 All of my projects are available at [gg](gg)
-
-- 📝 I regularly write articles on [hh](hh)
-
-- 💬 Ask me about **ee**
-
-- 📫 How to reach me **ff**
-
-- 📄 Know about my experiences [ii](ii)
-
-- ⚡ Fun fact **ff**
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
-
 
 * 🌍  I'm based in Lille
 * 🖥️  See my portfolio at [here](http://clement-jny.github.io/)
-* ✉️  You can contact me at [clementjaunay@free.fr](mailto:clementjaunay@free.fr)
+* 📫  You can contact me at [clementjaunay@free.fr](mailto:clementjaunay@free.fr)
 * 🚀  I'm currently working on [emiliemphotographie](http://clement-jny.github.io/emiliemphotographie)
 * 🧠  I'm learning Next, TypeScript
 * 🤝  I'm open to collaborating on web projects, ...
@@ -105,21 +72,6 @@ I've been learning to code for 5 years, after switching careers. I started with 
   <img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
-###
-
-
-
-
-I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
-
-* 🌍  I'm based in Lille
-* 🖥️  See my portfolio at [here](http://clement-jny.github.io/)
-* ✉️  You can contact me at [clementjaunay@free.fr](mailto:clementjaunay@free.fr)
-* 🚀  I'm currently working on [emiliemphotographie](http://clement-jny.github.io/emiliemphotographie)
-* 🧠  I'm learning Next, TypeScript
-* 🤝  I'm open to collaborating on web projects, ...
-* ⚡  I'm me
-
 ### Skills
 
 
@@ -143,3 +95,7 @@ I've been learning to code for 5 years, after switching careers. I started with 
 <a href="http://www.github.com/clement-jny"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=clement-jny&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
 <a href="https://github.com/clement-jny" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=clement-jny&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clement-jny" alt="clement-jny" /></a> </p>
