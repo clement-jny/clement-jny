@@ -1,8 +1,8 @@
-### Hi there 👋
+<!---### Hi there 👋
 
 [Frontend Mentor profile](https://www.frontendmentor.io/profile/clement-jny)
 [Github.io](https://clement-jny.github.io)
-
+--->
 <!--
 **clement-jny/clement-jny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
