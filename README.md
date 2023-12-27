@@ -1,4 +1,6 @@
-<h1 align="center">Hi 👋, I'm Clément</h1>
+<h1 align="center">Hey everyone 👋, I'm Clément</h1>
+Hey everyone 👋, I'm Clément
+
 <h3 align="center">A passionate frontend developer from India :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clement-jny&label=Profile%20views&color=0e75b6&style=flat" alt="clement-jny" /> </p>
