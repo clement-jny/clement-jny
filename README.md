@@ -1,8 +1,5 @@
 <h1>Hey everyone 👋, I'm Clément</h1>
 
-A passionate frontend developer from India :)
--------
-
 <h3>A passionate frontend developer from India :)</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=clement-jny&label=Profile%20views&color=0e75b6&style=flat" alt="clement-jny" /> </p>
