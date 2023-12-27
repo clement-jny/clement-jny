@@ -2,17 +2,15 @@
 
 ### A passionate student full-stack developer from France.
 
----
-
 ### I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
 
 * 🌍  I'm based in Lille
-* 🖥️  See my portfolio at [here](http://clement-jny.github.io/)
+* 🖥️  See my portfolio [here](http://clement-jny.github.io/)
 * 📫  You can contact me at [clementjaunay@free.fr](mailto:clementjaunay@free.fr)
 * 🚀  I'm currently working on [emiliemphotographie](http://clement-jny.github.io/emiliemphotographie)
-* 🧠  I'm learning Next, TypeScript
-* 🤝  I'm open to collaborating on web projects, ...
-* ⚡  I'm me
+* 🧠  I'm currently learning NextJs, TypeScript
+* 🤝  I'm open to collaborating on ...
+* ⚡   I'd be delighted to talk to you
 
 
 
