@@ -39,12 +39,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clement-jny&" alt="clement-jny" /></p>
 
 
-<!---### Hi there 👋
 
-[Frontend Mentor profile](https://www.frontendmentor.io/profile/clement-jny)
-[Github.io](https://clement-jny.github.io)
---->
-<!--
+
 **clement-jny/clement-jny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -57,7 +53,6 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
 
 <div align="center">
   <img height="150" src="https://camo.githubusercontent.com/62da68eb62b1e5f175f7d1f0191dd89a653d7908feb22d37d4a0ab07365d6791/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f4d3967624264396e6244724f5475314d71782f67697068792e676966"  />
