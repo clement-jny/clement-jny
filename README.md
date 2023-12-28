@@ -2,14 +2,14 @@
 
 ### A passionate student full-stack developer from France.
 
-### I've been learning to code for 5 years, after switching careers. I started with HTML, but have really found a passion for backend development...
+### I've been learning to code for 5 years, after switching careers. I started with HTML, but have found a passion for backend development...
 
 * 🏠  I'm based in Lille
 * 🖥️  See my portfolio [here](http://clement-jny.github.io/)
 * 📫  You can contact me at [](mailto:)
 * 🚀  I'm currently working on [emiliemphotographie](https://github.com/clement-jny/emiliemphotographie)
 * 📚  I'm currently learning NextJs, TypeScript
-* 🤝  I'm open to collaborating on web projets, ...
+* 🤝  I'm open to collaborating on web projects, ...
 * ⚡  I'd be delighted to talk to you
 
 ### 🌍 Connect with me
@@ -62,7 +62,7 @@
 
 
 <div align="center">
-<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=clement-jny&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 
