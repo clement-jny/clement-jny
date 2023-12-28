@@ -51,7 +51,7 @@
 <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="36" height="36" alt="Symfony" /></a>
 </p>
 
-### 🔥 My Stats
+### 🔥 Stats
 
 <p align="center">
 <picture>
