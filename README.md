@@ -12,7 +12,7 @@
 * 🤝  I'm open to collaborating on web projets, ...
 * ⚡  I'd be delighted to talk to you
 
-### 🌍 Connect with me:
+### 🌍 Connect with me
 
 <p align="left">
 <a href="https://www.linkedin.com/in/clement-jaunay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" /></a>
@@ -51,16 +51,7 @@
 <a href="https://symfony.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/symfony/symfony-original.svg" width="36" height="36" alt="Symfony" /></a>
 </p>
 
-
-
-|     Front     |      Back       | Database & other |
-| :------------ | :-------------: | ---------------: |
-| Colonne       |     Colonne     |          Colonne |
-| Alignée à     |   Alignée au    |        Alignée à |
-| Gauche        |     Centre      |           Droite |
-
-
-
+### 🔥 My Stats
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&show_icons=true&locale=en&layout=compact" alt="clement-jny" /></p>
@@ -70,20 +61,8 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clement-jny&" alt="clement-jny" /></p>
 
 
-
-
-
-
-
-
-###
-
-<h3 align="left">🔥 My Stats :</h3>
-
-###
-
 <div align="center">
-	<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+<img src="https://streak-stats.demolab.com?user=maurodesouza&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
 </div>
 
 
