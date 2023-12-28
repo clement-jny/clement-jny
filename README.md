@@ -16,7 +16,6 @@
 
 <p align="left">
 <a href="https://www.linkedin.com/in/clement-jaunay" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linkedin/linkedin-original.svg" width="36" height="36" alt="LinkedIn" /></a>
-
 <a href="https://discord.com/users/WlinT3rn_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="36" height="36" alt="Discord" /></a>
 </p>
 
