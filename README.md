@@ -53,22 +53,19 @@
 
 ### 🔥 My Stats
 
-<p align="left">
+<p align="center">
 <picture>
 <source srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
 <source srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true"media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
 <img src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true" alt="Stats" />
 </picture>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&layout=compact" alt="Top languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&layout=compact&theme=transparent" alt="Top languages" />
 </p>
 
-
-
-
+<p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=clement-jny&theme=transparent" alt="GitHub Streak" />
-
 <img src="https://github-profile-trophy.vercel.app/?username=clement-jny" alt="clement-jny" />
-
+</p>
 
 <img src="https://raw.githubusercontent.com/clement-jny/clement-jny/output/snake.svg" alt="Snake animation" />
 
