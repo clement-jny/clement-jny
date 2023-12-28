@@ -53,40 +53,17 @@
 
 ### 🔥 My Stats
 
+<picture>
+<source srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
+<source srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true"media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+<img src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true" alt="Stats" />
+</picture>
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&layout=compact" alt="Top languages" />
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=clement-jny)](https://github.com/anuraghazra/github-readme-stats)
-
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&locale=en" alt="clement-jny" />
-
-<picture>
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&theme=dark"
-    media="(prefers-color-scheme: dark)"
-  />
-  <source
-    srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true"
-    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-  />
-  <img src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true" alt="Stats" />
-</picture>
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clement-jny" alt="clement-jny" />
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=clement-jny&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
-
-
-<img src="https://streak-stats.demolab.com?user=clement-jny&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-
-
-
-<img src="https://github-readme-activity-graph.cyclic.app/graph?username=clement-jny&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=clement-jny&theme=transparent" alt="GitHub Streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=clement-jny" alt="clement-jny" />
-
-
-
 
 
 <img src="https://raw.githubusercontent.com/clement-jny/clement-jny/output/snake.svg" alt="Snake animation" />
