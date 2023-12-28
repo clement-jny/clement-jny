@@ -1,8 +1,7 @@
 # Hey everyone 👋, I'm Clément
 
 ### A passionate student full-stack developer from France.
-
-### I've been learning to code for 5 years, after switching careers. I started with HTML, but have found a passion for backend development...
+### Looking for a work-study program in web development
 
 * 🏠  I'm based in Lille
 * 🖥️  See my portfolio [here](http://clement-jny.github.io/)
