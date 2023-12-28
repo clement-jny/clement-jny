@@ -54,8 +54,7 @@
 ### 🔥 My Stats
 
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&layout=compact" alt="clement-jny" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&layout=compact" alt="Top languages" />
 
 <picture>
   <source
@@ -66,35 +65,21 @@
     srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true"
     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
   />
-  <img src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true" alt="Stats" />
 </picture>
 
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clement-jny&" alt="clement-jny" /></p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clement-jny" alt="clement-jny" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=clement-jny&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" />
 
 
-<div align="center">
 <img src="https://streak-stats.demolab.com?user=clement-jny&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
 
 
 
+<img src="https://github-readme-activity-graph.cyclic.app/graph?username=clement-jny&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" />
 
-
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/clement-jny"><img src="https://github-readme-streak-stats.herokuapp.com/?user=clement-jny&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="http://www.github.com/clement-jny"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=clement-jny&bg_color=1c1917&color=ffffff&line=0891b2&point=ffffff&area_color=1c1917&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
-
-
-
-
-
-<p align="left"><a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=clement-jny" alt="clement-jny" /></a></p>
+<img src="https://github-profile-trophy.vercel.app/?username=clement-jny" alt="clement-jny" />
 
 
 
