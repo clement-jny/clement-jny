@@ -56,6 +56,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&layout=compact" alt="Top languages" />
 
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&locale=en" alt="clement-jny" />
+
 <picture>
   <source
     srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&theme=dark"
