@@ -64,7 +64,7 @@
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=clement-jny&theme=transparent" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=clement-jny&theme=flat&no-bg=true" alt="clement-jny" />
+<img src="https://github-profile-trophy.vercel.app/?username=clement-jny&no-bg=true" alt="clement-jny" />
 </p>
 
 <img src="https://raw.githubusercontent.com/clement-jny/clement-jny/output/snake.svg" alt="Snake animation" />
