@@ -57,7 +57,19 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&show_icons=true&locale=en&layout=compact" alt="clement-jny" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&locale=en" alt="clement-jny" /></p>
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&locale=fr" alt="clement-jny" />
+<picture>
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&theme=dark"
+    media="(prefers-color-scheme: dark)"
+  />
+  <source
+    srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true"
+    media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+  />
+  <img src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true" />
+</picture>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=clement-jny&" alt="clement-jny" /></p>
 
