@@ -55,16 +55,16 @@
 
 <p align="center">
 <picture>
-<source srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&theme=dark" media="(prefers-color-scheme: dark)" />
-<source srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true"media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-<img src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true" alt="Stats" />
+<source srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&count_private=true&include_all_commits=true&theme=dark" media="(prefers-color-scheme: dark)" />
+<source srcset="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&count_private=true&include_all_commits=true"media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
+<img src="https://github-readme-stats.vercel.app/api?username=clement-jny&show_icons=true&count_private=true&include_all_commits=true" alt="Stats" />
 </picture>
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=clement-jny&layout=compact&theme=transparent" alt="Top languages" />
 </p>
 
 <p align="center">
 <img src="https://github-readme-streak-stats.herokuapp.com?user=clement-jny&theme=transparent" alt="GitHub Streak" />
-<img src="https://github-profile-trophy.vercel.app/?username=clement-jny&no-bg=true" alt="clement-jny" />
+<img src="https://github-profile-trophy.vercel.app/?username=clement-jny&no-bg=true&column=9" alt="clement-jny" />
 </p>
 
 <img src="https://raw.githubusercontent.com/clement-jny/clement-jny/output/snake.svg" alt="Snake animation" />
