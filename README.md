@@ -27,7 +27,11 @@ width="36" height="36" alt="Discord" />
 
 ### 🛠 Languages and tools
 
-| Front | Back | Database & other |
+| Front      |     Back |         Database & other |
+| :------------ | :-------------: | -------------: |
+| Colonne       |     Colonne     |        Colonne |
+| Alignée à     |   Alignée au    |      Alignée à |
+| Gauche        |     Centre      |         Droite |
 
 <p align="left">
 <a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer">
