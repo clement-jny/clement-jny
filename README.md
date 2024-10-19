@@ -4,9 +4,10 @@
 ### Looking for a work-study program in web development
 
 * 🏠  I'm based in Lille
-* 🖥️  See my portfolio [here](http://clement-jny.github.io/)
+* 🖥️  See my portfolio [here](https://clement-jny.fr)
+* * 🖥️  See my GitHub.io [here](http://clement-jny.github.io/)
 * 📫  You can contact me at [](mailto:)
-* 🚀  I'm currently working on [emiliemphotographie](https://github.com/clement-jny/emiliemphotographie)
+* 🚀  I'm currently working on [kanban](https://github.com/clement-jny/kanban)
 * 📚  I'm currently learning NextJs, TypeScript
 * 🤝  I'm open to collaborating on web projects, ...
 * ⚡  I'd be delighted to talk to you
