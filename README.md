@@ -7,8 +7,8 @@
 * 🖥️  See my portfolio [here](https://clement-jny.fr)
 * * 🖥️  See my GitHub.io [here](http://clement-jny.github.io/)
 * 📫  You can contact me at [](mailto:)
-* 🚀  I'm currently working on [kanban](https://github.com/clement-jny/kanban)
-* 📚  I'm currently learning NextJs, TypeScript
+* 🚀  I'm currently working on [kanban](https://github.com/clement-jny/kanban) & [bsfitness](https://github.com/clement-jny/bsfitness)
+* 📚  I'm currently learning Expo & React Native
 * 🤝  I'm open to collaborating on web projects, ...
 * ⚡  I'd be delighted to talk to you
 
